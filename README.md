@@ -1,2 +1,2 @@
 # Benchmark
-Statically encapsulates &lt;chrono> to get now() for benchmarking.
+Statically encapsulates &lt;chrono> to get now() in `ms` for benchmarking.
